@@ -1,0 +1,22 @@
+Name: Maddepolage Nadun Madusanka
+Email: nadunmaddepola@gmail.com
+Temp no: 221120
+
+6_1.This C code creates a singly linked list by taking input from the user and then sorts the list in ascending order.
+    It prints the sorted linked list and finally deletes all the nodes, freeing the allocated memory.
+
+6_2.This C code creates a circular linked list and performs operations such as insertion and deletion at the beginning and end of the list. 
+    It also prints the elements of the circular linked list and frees the allocated memory at the end.
+
+6_3.This C code implements a circular doubly linked list and performs operations to insert and delete elements
+    at the beginning and end of the list. The code then prints the elements of the list and frees the allocated memory before terminating.
+
+6_4.This C code implements a header linked list with functions to insert elements at the end and delete elements with a specific value.
+    It then prints the linked list before and after the deletion, along with the size of the list. 
+    The code frees the allocates memory before terminating.
+
+6_5.This C code implements a program to store polynomials using linked lists. 
+    It defines a structure for each term in the polynomial with a coefficient and an exponent. 
+    The program allows users to input two polynomials, performs addition and subtraction on them, and prints the results. 
+    The addition and subtraction are achieved by combining like terms based on their exponents. Finally, 
+    the program deallocates the memory used by the linked lists to avoid memory leaks.
