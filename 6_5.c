@@ -151,7 +151,7 @@ int main(){
     poly2 = insertTerm(poly2, 6,2);
     poly2 = insertTerm(poly2, 1,1);
     printf("Polynomial2: ");
-    printpolynomial(poly2);
+    // printpolynomial(poly2);
     
     
     poly=addPolynomials(poly1, poly2);
